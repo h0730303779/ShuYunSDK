@@ -9,9 +9,9 @@
 
 2.demo 会员注册示例
 ```
-            string actionMethod = "shuyun.loyalty.member.register";//必须为POST方
-            IClient client = new SYRestClient(config);
+            string actionMethod = "shuyun.loyalty.member.register";//请求接口名
+            IClient client = new SYRestClient(config);//初始化配置
             string memberrRegisterJsonData = Newtonsoft.Json.JsonConvert.SerializeObject(memberrRegister);
-            string result = client.PostRequestSnd(actionMethod, memberrRegisterJsonData);
-            return Newtonsoft.Json.JsonConvert.DeserializeObject<ShuYunResult>(result);
+            string result = client.PostRequestSnd(actionMethod, memberrRegisterJsonData); // 返回数云结果
+
 ```
