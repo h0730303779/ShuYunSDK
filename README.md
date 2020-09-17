@@ -3,7 +3,7 @@
 
 1. 可视化测试操作界面
 
-![Image text](./res/1.png)
+![Image text](/res/1.png)
 
 
 
