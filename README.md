@@ -3,7 +3,7 @@
 
 1. 可视化测试操作界面
 
-![Image text](res/1.png)
+![Image text](https://github.com/h0730303779/ShuYunSDK/blob/master/res/1.png)
 
 
 
