@@ -1,5 +1,5 @@
 # 数云net sdk
-文档地址 https://open.shujuyingjia.com/#/apidoc
+文档地址 https://open.shujuyingjia.com/#/document/docs?docId=93
 
 1. 可视化测试操作界面
 
